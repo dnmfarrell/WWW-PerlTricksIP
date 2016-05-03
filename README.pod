@@ -6,6 +6,10 @@
 
 WWW::PerlTricksIP - Returns your ip address using L<http://perltricks.com/services/echo_ip>
 
+=head1 WARNING
+
+This module no longer works. Check out [WWW::IP](https://metacpan.org/pod/WWW::IP) and the modules it uses modules that return your external IP address.
+
 =head1 VERSION
 
 version 0.01
